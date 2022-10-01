@@ -1,3 +1,9 @@
+/* File Name: app.js
+Student Name: CHI SING LEUNG
+Student ID: 301268517
+Date: 30 Sep 2022
+*/
+
 // IIFE -- Immediately Invoked Function Expression
 (function(){
 
